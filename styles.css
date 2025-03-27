@@ -22,3 +22,11 @@ img{
     border: 2px solid black;
 }
 
+.resaltar{
+    background-color: green;
+}
+
+p{
+    background-color: lightblue;
+}
+
