@@ -30,3 +30,35 @@ p{
     background-color: lightblue;
 }
 
+div{
+    margin: 15px;
+}
+
+table{
+    padding: 10px;
+}
+
+img{
+    width: 200px;
+}
+
+#titulo-grande{
+    font-size: 30px;
+}
+
+ul{
+    background-color: purple;
+}
+
+.estilizar{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    background-color: yellow;
+}
+
+#tabla-modificable{
+    border: 1px solid black;
+}
+#celdas{
+    padding: 5px;
+}
